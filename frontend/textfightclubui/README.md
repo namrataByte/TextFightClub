@@ -108,7 +108,7 @@ This will publish the backend API in `bin/Release/net8.0/publish`.
 
 ```
 
-You can just **replace your current README.md with this**.  
+If you want, I can also **add a small section on how to configure the frontend to automatically call the backend API** so your app runs immediately after `npm start`.  
 
-If you want, I can also **add instructions for setting the backend API URL in the React app** so it connects automatically without editing files. Do you want me to do that too?
+Do you want me to add that?
 ```
