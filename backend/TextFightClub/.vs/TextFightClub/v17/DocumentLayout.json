@@ -1,0 +1,196 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\namra\\source\\repos\\TextFightClub\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\textfightclub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\textfightclub.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\controllers\\fightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\controllers\\fightcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\textfightclub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\textfightclub.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|c:\\users\\namra\\source\\repos\\textfightclub\\textfightclub\\textfightclub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{E544F17C-CE75-4586-814D-458E811D8CF7}|TextFightClub\\TextFightClub.csproj|solutionrelative:textfightclub\\textfightclub.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 346,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 151,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "TextFightClub",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\TextFightClub.csproj",
+              "RelativeDocumentMoniker": "TextFightClub\\TextFightClub.csproj",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\TextFightClub.csproj",
+              "RelativeToolTip": "TextFightClub\\TextFightClub.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T14:28:16.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\Program.cs",
+              "RelativeDocumentMoniker": "TextFightClub\\Program.cs",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\Program.cs",
+              "RelativeToolTip": "TextFightClub\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:42:37.911Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextFightClub.http",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\TextFightClub.http",
+              "RelativeDocumentMoniker": "TextFightClub\\TextFightClub.http",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\TextFightClub.http",
+              "RelativeToolTip": "TextFightClub\\TextFightClub.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-30T12:53:34.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FightController.cs",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\Controllers\\FightController.cs",
+              "RelativeDocumentMoniker": "TextFightClub\\Controllers\\FightController.cs",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\Controllers\\FightController.cs",
+              "RelativeToolTip": "TextFightClub\\Controllers\\FightController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:43:41.984Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "TextFightClub\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\Properties\\launchSettings.json",
+              "RelativeToolTip": "TextFightClub\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T14:28:36.518Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "TextFightClub\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\appsettings.Development.json",
+              "RelativeToolTip": "TextFightClub\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T12:53:32.435Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "TextFightClub.csproj",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\TextFightClub.csproj",
+              "RelativeDocumentMoniker": "TextFightClub\\TextFightClub.csproj",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\TextFightClub.csproj",
+              "RelativeToolTip": "TextFightClub\\TextFightClub.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T14:27:12.482Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\appsettings.json",
+              "RelativeDocumentMoniker": "TextFightClub\\appsettings.json",
+              "ToolTip": "C:\\Users\\namra\\source\\repos\\TextFightClub\\TextFightClub\\appsettings.json",
+              "RelativeToolTip": "TextFightClub\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T12:53:29.153Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 10,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedHeight": 35,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

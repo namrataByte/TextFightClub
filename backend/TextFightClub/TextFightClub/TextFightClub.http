@@ -1,0 +1,9 @@
+@TextFightClub_HostAddress = https://localhost:7023
+
+### Test TextFightClub battle endpoint
+POST {{TextFightClub_HostAddress}}/api/fight/battle
+Content-Type: application/json
+
+{
+  "subject": "Pineapple on pizza"
+}

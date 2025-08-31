@@ -1,0 +1,18 @@
+[
+  {
+    "ContainingType": "TextFightClub.Controllers.FightController",
+    "Method": "Battle",
+    "RelativePath": "api/Fight/battle",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "TextFightClub.Controllers.FightRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]
